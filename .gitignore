@@ -1,0 +1,15 @@
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Logs
+*.log
+*.tmp
+*.swp
+
+# Node.js (optional for future use)
+node_modules/
